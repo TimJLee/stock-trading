@@ -1,3 +1,4 @@
+# TradingEnv.py 의 초기값 설정 및 관련 함수 임포트
 import random
 import json
 import gym
